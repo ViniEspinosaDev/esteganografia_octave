@@ -1,7 +1,7 @@
 # esteganografia_octave
 steganography LSB Octave
 
-# These are steganography scritps using LSB (least bit significant). 
+# These are steganography scritps using LSB (least significant bit). 
 
 # Use the OCTAVE
 
